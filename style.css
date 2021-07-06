@@ -3,16 +3,20 @@ body{
     }
     .fixibal-container{
         display: flex;
-        padding-top: 50px;
         padding-left: 80px;
         margin-bottom: 100px;
     }
     .half-width{
         width: 50%;
         padding: 5%;
+    
     }
-    .text-canter{
-        padding-top: 250px;
+    .half-width img{
+        width: 100%;
+
+    }
+    #text-canter{
+        padding-top: 220px;
 
     }
     img{
