@@ -58,6 +58,7 @@ body{
 }
 .item-box img{
     border-radius: 10px;
+
 }
 .fiexible{
     display: flex;
@@ -70,7 +71,7 @@ input{
     width: 332px;
     border-radius: 8px;
 }
-.form{
+form{
     padding-left: 15%;
     padding-right: 5%;
 }
@@ -80,4 +81,12 @@ input{
 .from-img{
 
     width: 100%;
+}
+footer {
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	background-color:black;
+	color: white;
+	text-align: center;
 }
