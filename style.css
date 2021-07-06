@@ -1,0 +1,83 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    }
+    .container-fixibal{
+        display: flex;
+        padding-top: 60px;
+        padding-left: 100px;
+        margin-bottom: 100px;
+    }
+    .half-width{
+        width: 50%;
+        padding: 5%;
+    }
+    .text-group{
+        padding-top: 250px;
+
+    }
+    img{
+        width: 80%;
+    }
+
+    h1{
+        font-size: 60px;
+        color: grey;
+    }
+    h3{
+        color: grey;
+    }
+    span{
+        color: orange;
+    }
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,red);
+    padding: 15px 40px; 
+ border-radius: 40px;
+
+}
+#backround-img{
+    background-image: url(./photos/images/shapes/Frame\ 58.jpg);
+
+}
+#heading{
+     text-align: center;
+}
+.item-box{
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2%;
+    padding-left: 10px;
+    box-shadow:10px 10px 40px grey;
+   border-radius: 20px;
+}
+.item-box img{
+    border-radius: 10px;
+}
+.fiexible{
+    display: flex;
+}
+
+input{
+    width: 50px;
+    display: block;
+    margin-top: 20px;
+    width: 332px;
+    border-radius: 8px;
+}
+.form{
+    padding-left: 15%;
+    padding-right: 5%;
+}
+.box{
+    padding: 8Px;
+}
+.from-img{
+
+    width: 100%;
+}
