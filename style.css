@@ -29,20 +29,17 @@ body{
     span{
         color: orange;
     }
-
 .link-button{
     text-decoration: none;
     color: white;
     background-image: linear-gradient(orange,red);
     padding: 15px 40px; 
  border-radius: 40px;
-
-}
+    }
 #backround-img{
     background-image: url(./photos/images/shapes/Frame\ 58.jpg);
-
-}
-#heading{
+    }
+#mid-heading{
      text-align: center;
 }
 .item-box{
@@ -64,7 +61,6 @@ body{
     display: flex;
 
 }
-
 input{
     width: 50px;
     display: block;
@@ -85,6 +81,7 @@ form{
     margin-top: 150px;
     width: 100%;
 }
+
 footer {
 	width: 100%;
     padding-top: 10px;
