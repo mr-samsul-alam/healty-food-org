@@ -11,7 +11,7 @@ body{
         width: 50%;
         padding: 5%;
     }
-    .text-group{
+    .text-canter{
         padding-top: 250px;
 
     }
@@ -71,8 +71,9 @@ input{
     margin-top: 20px;
     width: 332px;
     border-radius: 8px;
+    text-align: center;
 }
-.form{
+form{
     padding-left: 15%;
     padding-right: 5%;
     margin-left: 5%;
